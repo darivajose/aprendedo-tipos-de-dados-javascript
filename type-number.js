@@ -8,7 +8,7 @@
 //const primeiroNumero = Number(prompt("Digite o primeiro número:"));
 //const segundoNumero = Number(prompt("Digite o segundo número:"));
 
-const primeiroNumero = 1;
+//const primeiroNumero = 1;
 const segundoNumero = 2;
 
 const operacaoAdicao = primeiroNumero + segundoNumero;
