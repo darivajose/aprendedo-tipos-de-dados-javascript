@@ -22,6 +22,9 @@
 //console.log(citacao === meuNome); // false, pois são diferentes
 
 
-const valor = "100";
-console.log(typeof valor); // Isso mostrará "string" no terminal
+const valor1= "100";
+console.log(typeof valor1); // Isso mostrará "string" no terminal
+
+//const valor2 = 100;
+//console.log(typeof valor2); // Isso mostrará "number" no terminal
 
