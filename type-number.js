@@ -33,3 +33,4 @@ console.log("O resultado é:" + novaOperacao);
 const nome = "José";
 console.log(nome * primeiroNumero);  
 
+
