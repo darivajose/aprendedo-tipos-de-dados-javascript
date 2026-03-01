@@ -28,3 +28,4 @@ console.log(typeof valor1); // Isso mostrará "string" no terminal
 //const valor2 = 100;
 //console.log(typeof valor2); // Isso mostrará "number" no terminal
 
+
