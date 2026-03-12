@@ -19,7 +19,7 @@
 
 
 var idade = 27; // variavel é mutável
-const nome = "José tem " + idade + " anos.";
+const nome = "José tem " + idade + " anos." 
 //nome = "jose"; // não é possível reatribuir um valor a uma constante
 console.log(nome);
 console.log(typeof idade);
