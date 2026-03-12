@@ -22,7 +22,7 @@ console.log(texto3);
 console.log(texto4);
 console.log(StringDeNumeros);
 
-// concatenação de strings
+// concatenação de strings (+)
 const nome = "Maria";
 const idade = 27;
 const frase = "Olá, meu nome é " + nome + " e eu tenho " + idade + " anos.";
