@@ -16,12 +16,15 @@
 
 
 
+
+
 var idade = 27; // variavel é mutável
 const nome = "José tem " + idade + " anos.";
+//nome = "jose"; // não é possível reatribuir um valor a uma constante
 console.log(nome);
 console.log(typeof idade);
 
-const primeiroNumero = 3; // constante é imutável
+/*const primeiroNumero = 3; // constante é imutável
 const segundoNumero = 2;
 //primeiroNumero = 5; // não é possível reatribuir um valor a uma constante
 
@@ -51,6 +54,8 @@ const nome2 = "José tem " + primeiroNumero + " anos.";
 
 console.log("José" * primeiroNumero); //NaN é uma sigla para "Not a Number" (Não é um Número)
 console.log(nome2);*/
+
+//
   
 
 
