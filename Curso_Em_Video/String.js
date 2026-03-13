@@ -33,7 +33,9 @@ const sobrenome = "Dariva";
 const nomeCompleto = nome1 + "" + sobrenome;
 console.log(nomeCompleto);
 console.log (nome1 + sobrenome); // sem espaço entre nome e sobrenome
-
+ 
+const nomeCompleto2 = `${nome1} ${sobrenome}`; // template string (template literals)
+console.log(nomeCompleto2);''
 
 // template string (template literals)
 //const fraseTemplate = `Olá, meu nome é ${nome} e eu tenho ${idade} anos.`;
